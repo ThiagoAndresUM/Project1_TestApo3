@@ -14,6 +14,4 @@
             <button  type="submit" class="btn btn-primary" >Registrar Usuario</button>
         </form>
     </div>
-
-
 <%@include file="lib/footer.jsp" %>
