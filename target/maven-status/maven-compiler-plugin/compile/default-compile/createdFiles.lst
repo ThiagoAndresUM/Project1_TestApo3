@@ -1,2 +1,5 @@
-umariana\project1_testapo3\resources\JakartaEE10Resource.class
+Modelo\Producto.class
 umariana\project1_testapo3\JakartaRestConfiguration.class
+Servlets\ServletProductos.class
+umariana\project1_testapo3\resources\JakartaEE10Resource.class
+Modelo\Usuario.class

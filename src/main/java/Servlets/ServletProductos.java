@@ -56,7 +56,7 @@ public class ServletProductos extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         processRequest(request, response);
-    }
+            }
 
     /**
      * Handles the HTTP <code>POST</code> method.
@@ -70,6 +70,8 @@ public class ServletProductos extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         processRequest(request, response);
+        String nombre = request.getParameter("nombre");
+
     }
 
     /**
