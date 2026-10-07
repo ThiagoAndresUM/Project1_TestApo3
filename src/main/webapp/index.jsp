@@ -3,6 +3,7 @@
         <img src="./images/java-banner.png" alt="Banner de proyecto"> 
     </div>
     <h1> *** Mi página web en JSP ***</h1>
+    <h3> Prueba de clonación en PC1</h3>
     <br>
     <h3> Cuerpo de página index </h3>
     <%
