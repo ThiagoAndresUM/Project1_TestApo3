@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%-- 
-    Document   : registroProductos
+    Document   : registroUsuarios
     Created on : 30/09/2026, 7:36:19 a. m.
     Author     : AndrésCastillo
 --%>
@@ -103,7 +103,7 @@
                                     <input class="form-control" type="password" id="password" name="password" <%= editando ? "" : "required"%> minlength="6" autocomplete="new-password" placeholder="<%= editando ? "Sin cambios si queda vacía" : "Mínimo 6 caracteres"%>">
                                     <button class="btn btn-outline-secondary" type="button" id="verPassword" aria-label="Mostrar u ocultar contraseña"><i class="bi bi-eye"></i></button>
                                 </div>
-                                <div class="form-text">Para este ejemplo en memoria, la contraseña se conserva como atributo del modelo. No uses este enfoque en producción sin hash seguro.</div>
+                                <div class="form-text">Para este ejemplo en memoria, la contraseña se conserva como atributo del modelo. Se recomienda no usar este enfoque en producción sin hash seguro.</div>
                             </div>
                         </div>
                     </div>

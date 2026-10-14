@@ -2,7 +2,7 @@ package Modelo;
 
 /**
  *
- * @author Asus 1
+ * @author AndrésCC
  */
 public class Persona {
 

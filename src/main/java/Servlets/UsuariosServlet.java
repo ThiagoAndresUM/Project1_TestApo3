@@ -1,7 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Servlet.java to edit this template
- */
+/** 
+    Document   : UsuariosServlet
+    Created on : 30/09/2026, :09:19 a. m.
+    Author     : AndrésCastillo
+--**/
 package Servlets;
 
 import Modelo.GestionarUsuarios;

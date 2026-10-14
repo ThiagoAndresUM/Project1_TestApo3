@@ -1,5 +1,10 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%-- 
+    Document   : adminUsuarios
+    Created on : 30/09/2026, 7:36:19 a. m.
+    Author     : AndrésCastillo
+--%>
 <%@page import="Modelo.Usuario"%>
 <%@page import="java.util.*"%>
 <%@include file="lib/header.jsp" %>
