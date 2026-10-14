@@ -4,9 +4,17 @@
         <servlet-name>ServletProductos</servlet-name>
         <servlet-class>Servlets.ServletProductos</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>UsuariosServlet</servlet-name>
+        <servlet-class>Servlets.UsuariosServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>ServletProductos</servlet-name>
         <url-pattern>/ServletProductos</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UsuariosServlet</servlet-name>
+        <url-pattern>/UsuariosServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

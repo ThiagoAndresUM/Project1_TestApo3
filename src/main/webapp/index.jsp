@@ -11,7 +11,7 @@
         out.print(edad);
     %>
     <div class="container">
-        <form action="registro.jsp" method="GET">
+        <form action="registroUsuarios.jsp" method="GET">
             <button  type="submit" class="btn btn-primary" >Registrar Usuario</button>
         </form>
     </div>

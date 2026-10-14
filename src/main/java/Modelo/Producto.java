@@ -5,6 +5,7 @@ public class Producto {
    String nombre;
    int cantidad;
    double precioUnitario;
+   
     
    
    

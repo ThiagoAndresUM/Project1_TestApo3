@@ -1,5 +1,6 @@
-Modelo\Producto.class
-umariana\project1_testapo3\JakartaRestConfiguration.class
+Servlets\UsuariosServlet.class
+Modelo\GestionarUsuarios.class
 Servlets\ServletProductos.class
-umariana\project1_testapo3\resources\JakartaEE10Resource.class
 Modelo\Usuario.class
+Modelo\Producto.class
+Modelo\Persona.class

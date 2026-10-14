@@ -1,7 +1,7 @@
 <%-- 
     Document   : registroProductos
     Created on : 30/09/2026, 7:36:19 a. m.
-    Author     : Internet
+    Author     : AndrésCastillo
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
